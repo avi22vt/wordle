@@ -23,6 +23,7 @@
     },
     "vscode": {
       "extensions": [
+        "AvinashMaheshwari.projexity-ai",
         "ms-python.python"
       ]
     }
