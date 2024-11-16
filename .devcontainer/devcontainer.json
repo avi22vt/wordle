@@ -28,5 +28,8 @@
       ]
     }
   },
-  "forwardPorts": [5000]
+  "forwardPorts": [5000],
+  "remoteEnv": {
+    "REPO_ID": "889268940"
+  }
 }
